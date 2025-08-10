@@ -28,23 +28,6 @@ flowchart TD
     A3 -- "Presents Output" --> A5
 ```
 
-## Chapters
-
-1. [Video Stream Input
-](01_video_stream_input_.md)
-2. [Real-time Frame Processor
-](02_real_time_frame_processor_.md)
-3. [MediaPipe Hand Detector
-](03_mediapipe_hand_detector_.md)
-4. [Landmark Visualizer
-](04_landmark_visualizer_.md)
-5. [Finger Gesture Logic
-](05_finger_gesture_logic_.md)
-6. [Visual Feedback Display
-](06_visual_feedback_display_.md)
-
-
-
 # Chapter 1: Video Stream Input
 
 Welcome to the `hands_motion_detect` project! This project helps your computer understand what your hands are doing, like if you're holding up fingers or making a fist. But before your computer can understand your hands, it first needs to **see** them!
